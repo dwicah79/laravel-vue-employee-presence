@@ -30,5 +30,5 @@ Sebuah starter kit modern berbasis **Laravel 10**, **Vue 3**, dan **Laravel Bree
 ### 1. Clone project
 
 ```bash
-git clone https://github.com/username/laravel-vue-breeze-starter.git
-cd laravel-vue-breeze-starter
+git https://github.com/dwicah79/laravel-vue-employee-presence.git
+cd laravel-vue-employee-presence
